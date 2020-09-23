@@ -1,0 +1,1 @@
+# matsue-ct-ruby-lectue
